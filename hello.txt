@@ -1,2 +1,8 @@
 "hello github" 
+<<<<<<< HEAD
 "branch" 
+=======
+"hello world" 
+"branch edited" 
+>>>>>>> feature-branch
+"master branch" 
